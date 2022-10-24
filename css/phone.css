@@ -1,0 +1,16 @@
+.img img {
+    width: 50%;
+}
+
+.brand h1 {
+    font-size: 2rem;
+}
+
+#form {
+    padding: 2rem;
+}
+
+#form section {
+    margin: 2rem 0rem 4rem 0rem;
+    padding: 2rem;
+}
